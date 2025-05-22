@@ -1,0 +1,15 @@
+.project 
+.classpath 
+.settings/ 
+bin/ 
+target/ 
+.DS_Store 
+Thumbs.db 
+ 
+# Ignore real config files 
+application.properties 
+application.yml 
+ 
+# Allow example/sample files 
+!application-sample.properties 
+!application-sample.yml 
